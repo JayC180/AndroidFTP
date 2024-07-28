@@ -1,0 +1,3 @@
+# A Software for FTP on Android
+I hate MTP
+Under development...
